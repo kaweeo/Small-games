@@ -1,5 +1,7 @@
 This is the famos "Snake" game coded up in Python. 
 
+```
+
            /^\/^\
          _|__|  O|
 \/     /~     \_/ \
@@ -18,3 +20,4 @@ This is the famos "Snake" game coded up in Python.
             ~-_           _-~          ~-_       _-~
             
 
+```
