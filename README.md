@@ -1,2 +1,2 @@
 # Small-Games
-Small games like The Snake, Pong using Python's turtle module mostly
+This is a repo with small games like The Snake and Pong, which mostly use Python's turtle module.
